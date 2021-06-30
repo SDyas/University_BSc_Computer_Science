@@ -1,2 +1,2 @@
 # University
-Showcase of some university work across my three years of study
+Showcase of some individual coursework across my three years of study.
