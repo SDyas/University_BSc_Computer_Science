@@ -1,5 +1,4 @@
 # University
-Showcase of some of my individual coursework from university.
 
 ## Year 3:
 
