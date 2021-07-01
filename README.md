@@ -11,11 +11,11 @@ Showcase of some of my individual coursework from university.
 
 * Data Science Algorithms and Tools
 
+* Final Year Project
+
 * Natural Language Processing
 
 * Virtual Reality
-
-* Final Year Project
 
 ## Year 2:
 
