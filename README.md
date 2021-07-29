@@ -42,7 +42,7 @@
 
 * ### Java - Drone Project
 
-    Using Java and OOP to produce an interactive simulation with a working UI.
+    Using Java and OOP to produce an interactive simulation with a working UI, with unit testing then conducted to assess the simulation.
 
 * ### Neurocomputation 
 
