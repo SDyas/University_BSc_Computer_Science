@@ -31,6 +31,8 @@
 * ### Virtual Reality
 
     Using C# and Unity to produce a first-person scenario, following the principles of virtual reality. 
+    
+    Assets made within Blender. 
 
 ## Year 2:
 
