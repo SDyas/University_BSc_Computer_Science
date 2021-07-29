@@ -58,4 +58,4 @@
 
 * ### Console Text Game
 
-    Using C++ to produce a simple console-based game, demonstrating the application of coding fundamentals. 
+    Using C++ to produce a simple console-based game, demonstrating the application of programming fundamentals. 
