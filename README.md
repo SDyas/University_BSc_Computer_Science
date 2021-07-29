@@ -8,7 +8,7 @@
 
 * ### Blockchain
 
-    Using C# and OOP to produce a basic blockchain with UI, tokens, scaling difficulty, and mining protocol configuration.
+    Using C# and OOP to produce a working blockchain; with UI, tokens, scaling difficulty, and mining protocol configuration.
 
 * ### Data Integration and Visualisation
 
@@ -16,17 +16,17 @@
 
 * ### Data Science Algorithms and Tools
 
-    Using KNIME to explore data manipulation algorithms and tools e.g. clustering, dimensionality reduction, and classification.
+    Using KNIME to explore algorithms and tools for data analysis e.g. clustering, dimensionality reduction, decision tree etc.
 
 * ### Final Year Project
 
-    Using genetic programming to explore automation of player testing in order to adapt game systems for the visually impaired. 
+    "Feature Testing With Artificial Intelligence and Genetic Programming"
     
     Written in C# within Unity, with data analysis conducted via Python.
 
 * ### Natural Language Processing
 
-    Using Python to predict the sentiment of given text through the training of unsupervised classifiers e.g. logistic regression, neural networks.
+    Using Python to predict the sentiment of given text, assessing the accuracy of each classifier used e.g. logistic regression, neural network, support vector machine  etc.
 
 * ### Virtual Reality
 
