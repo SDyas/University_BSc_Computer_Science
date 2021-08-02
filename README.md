@@ -28,6 +28,10 @@
 
     Using Python to predict the sentiment of given text, assessing the accuracy of each classifier used e.g. logistic regression, neural network, support vector machine  etc.
 
+* ### Programming in Python for Data Science
+
+    Using Python to explore data clustering and networking.
+
 * ### Virtual Reality
 
     Using C# and Unity to produce a first-person scenario, following the principles of virtual reality. 
