@@ -1,4 +1,4 @@
-# University
+# BSc. Computer Science
 
 ## Year 3:
 
